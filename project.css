@@ -1,0 +1,27 @@
+table th,
+td {
+  border: 1px solid rgb(170, 44, 44);
+  border-collapse: collapse;
+}
+th {
+  padding: 10px;
+}
+th {
+  text-align: left;
+}
+th {
+  text-shadow:rgb(221, 218, 211) ;
+}
+tr {
+  text-align: left;
+}
+tr {
+background-color: rgb(235, 230, 240);
+}
+image{
+    size: 3cm; border:inherit; 
+    padding: 10px
+}
+body{
+    background-color: blueviolet;
+}
